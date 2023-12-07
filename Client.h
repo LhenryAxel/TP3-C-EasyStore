@@ -1,13 +1,12 @@
+#include <vector>
 class Client{
-    using namespace std
-    {
     private:
-        string _nom;
-        string _prenom;
-        string _id
-        
+        std::string _nom;
+        std::string _prenom;
+        std::string _id;
 
 
 
-}
+
+
 };
